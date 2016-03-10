@@ -1,0 +1,2 @@
+python_weka_wrapper == 0.3.2
+weka == 0.1.6
